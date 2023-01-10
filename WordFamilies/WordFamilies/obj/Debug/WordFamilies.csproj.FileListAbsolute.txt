@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\University Documents\WordFamilies\WordFamilies\WordFamilies\obj\Debug\WordFamilies.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\University Documents\WordFamilies\WordFamilies\WordFamilies\obj\Debug\WordFamilies.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\University Documents\WordFamilies\WordFamilies\WordFamilies\obj\Debug\WordFamilies.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\University Documents\WordFamilies\WordFamilies\WordFamilies\bin\Debug\WordFamilies.exe.config
+C:\Users\user\Desktop\University Documents\WordFamilies\WordFamilies\WordFamilies\bin\Debug\WordFamilies.exe
+C:\Users\user\Desktop\University Documents\WordFamilies\WordFamilies\WordFamilies\bin\Debug\WordFamilies.pdb
+C:\Users\user\Desktop\University Documents\WordFamilies\WordFamilies\WordFamilies\obj\Debug\WordFamilies.exe
+C:\Users\user\Desktop\University Documents\WordFamilies\WordFamilies\WordFamilies\obj\Debug\WordFamilies.pdb
